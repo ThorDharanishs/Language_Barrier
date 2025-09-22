@@ -1,0 +1,4402 @@
+[
+  {
+    "term": "Diabetes #1",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #2",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #3",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #4",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #5",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #6",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #7",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #8",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #9",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #10",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #11",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #12",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #13",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #14",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #15",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #16",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #17",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #18",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #19",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #20",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #21",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #22",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #23",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #24",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #25",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #26",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #27",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #28",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #29",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #30",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #31",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #32",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #33",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #34",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #35",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #36",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #37",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #38",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #39",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #40",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #41",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #42",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #43",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #44",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #45",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #46",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #47",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #48",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #49",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #50",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #51",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #52",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #53",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #54",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #55",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #56",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #57",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #58",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #59",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #60",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #61",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #62",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #63",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #64",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #65",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #66",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #67",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #68",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #69",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #70",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #71",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #72",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #73",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #74",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #75",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #76",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #77",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #78",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #79",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #80",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #81",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #82",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #83",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #84",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #85",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #86",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #87",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #88",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #89",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #90",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #91",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #92",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #93",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #94",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #95",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #96",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #97",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #98",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #99",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #100",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #101",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #102",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #103",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #104",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #105",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #106",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #107",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #108",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #109",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #110",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #111",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #112",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #113",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #114",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #115",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #116",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #117",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #118",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #119",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #120",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #121",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #122",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #123",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #124",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #125",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #126",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #127",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #128",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #129",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #130",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #131",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #132",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #133",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #134",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #135",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #136",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #137",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #138",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #139",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #140",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #141",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #142",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #143",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #144",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #145",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #146",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #147",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #148",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #149",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #150",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #151",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #152",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #153",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #154",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #155",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #156",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #157",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #158",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #159",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #160",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #161",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #162",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #163",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #164",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #165",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #166",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #167",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #168",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #169",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #170",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #171",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #172",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #173",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #174",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #175",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #176",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #177",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #178",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #179",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #180",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #181",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #182",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #183",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #184",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #185",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #186",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #187",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #188",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #189",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #190",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #191",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #192",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #193",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #194",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #195",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #196",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #197",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #198",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #199",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #200",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #201",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #202",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #203",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #204",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #205",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #206",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #207",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #208",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #209",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #210",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #211",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #212",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #213",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #214",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #215",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #216",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #217",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #218",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #219",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #220",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #221",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #222",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #223",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #224",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #225",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #226",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #227",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #228",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #229",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #230",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #231",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #232",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #233",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #234",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #235",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #236",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #237",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #238",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #239",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #240",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #241",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #242",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #243",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #244",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #245",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #246",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #247",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #248",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #249",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #250",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #251",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #252",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #253",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #254",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #255",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #256",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #257",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #258",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #259",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #260",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #261",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #262",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #263",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #264",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #265",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #266",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #267",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #268",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #269",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #270",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #271",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #272",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #273",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #274",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #275",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #276",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #277",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #278",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #279",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #280",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #281",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #282",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #283",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #284",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #285",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #286",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #287",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #288",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #289",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #290",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #291",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #292",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #293",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #294",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #295",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #296",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #297",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #298",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #299",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #300",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #301",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #302",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #303",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #304",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #305",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #306",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #307",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #308",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #309",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #310",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #311",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #312",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #313",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #314",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #315",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #316",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #317",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #318",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #319",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #320",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #321",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #322",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #323",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #324",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #325",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #326",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #327",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #328",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #329",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #330",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #331",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #332",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #333",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #334",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #335",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #336",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #337",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #338",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #339",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #340",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #341",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #342",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #343",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #344",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #345",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #346",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #347",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #348",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #349",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #350",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #351",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #352",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #353",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #354",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #355",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #356",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #357",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #358",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #359",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #360",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #361",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #362",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #363",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #364",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #365",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #366",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #367",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #368",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #369",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #370",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #371",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #372",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #373",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #374",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #375",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #376",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #377",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #378",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #379",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #380",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #381",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #382",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #383",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #384",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #385",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #386",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #387",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #388",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #389",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #390",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #391",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #392",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #393",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #394",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #395",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #396",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #397",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #398",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #399",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #400",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #401",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #402",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #403",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #404",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #405",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #406",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #407",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #408",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #409",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #410",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #411",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #412",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #413",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #414",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #415",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #416",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #417",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #418",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #419",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #420",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #421",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #422",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #423",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #424",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #425",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #426",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #427",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #428",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #429",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #430",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #431",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #432",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #433",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #434",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #435",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #436",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #437",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #438",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #439",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #440",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #441",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #442",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #443",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #444",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #445",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #446",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #447",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #448",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #449",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #450",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #451",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #452",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #453",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #454",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #455",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #456",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #457",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #458",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #459",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #460",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #461",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #462",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #463",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #464",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #465",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #466",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #467",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #468",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #469",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #470",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #471",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #472",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #473",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #474",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #475",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #476",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #477",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #478",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #479",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #480",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #481",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #482",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #483",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #484",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #485",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #486",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #487",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #488",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #489",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #490",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #491",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #492",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #493",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #494",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #495",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #496",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #497",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #498",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #499",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #500",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #501",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #502",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #503",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #504",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #505",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #506",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #507",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #508",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #509",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #510",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #511",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #512",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #513",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #514",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #515",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #516",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #517",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #518",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #519",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #520",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #521",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #522",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #523",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #524",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #525",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #526",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #527",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #528",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #529",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #530",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #531",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #532",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #533",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #534",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #535",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #536",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #537",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #538",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #539",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #540",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #541",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #542",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #543",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #544",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #545",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #546",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #547",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #548",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #549",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #550",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #551",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #552",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #553",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #554",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #555",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #556",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #557",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #558",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #559",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #560",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #561",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #562",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #563",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #564",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #565",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #566",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #567",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #568",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #569",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #570",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #571",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #572",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #573",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #574",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #575",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #576",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #577",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #578",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #579",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #580",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #581",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #582",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #583",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #584",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #585",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #586",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #587",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #588",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #589",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #590",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #591",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #592",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #593",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #594",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #595",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #596",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #597",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #598",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #599",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #600",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #601",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #602",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #603",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #604",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #605",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #606",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #607",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #608",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #609",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #610",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #611",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #612",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #613",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #614",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #615",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #616",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #617",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #618",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #619",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #620",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #621",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #622",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #623",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #624",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #625",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #626",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #627",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #628",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #629",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #630",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #631",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #632",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #633",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #634",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #635",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #636",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #637",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #638",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #639",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #640",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #641",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #642",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #643",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #644",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #645",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #646",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #647",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #648",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #649",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #650",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #651",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #652",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #653",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #654",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #655",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #656",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #657",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #658",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #659",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #660",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #661",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #662",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #663",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #664",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #665",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #666",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #667",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #668",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #669",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #670",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #671",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #672",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #673",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #674",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #675",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #676",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #677",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #678",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #679",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #680",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #681",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #682",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #683",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #684",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #685",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #686",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #687",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #688",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #689",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #690",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #691",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #692",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #693",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #694",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #695",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #696",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #697",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #698",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #699",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #700",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #701",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #702",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #703",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #704",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #705",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #706",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #707",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #708",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #709",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #710",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #711",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #712",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #713",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #714",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #715",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #716",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #717",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #718",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #719",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #720",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #721",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #722",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #723",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #724",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #725",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #726",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #727",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #728",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #729",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #730",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #731",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #732",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #733",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #734",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #735",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #736",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #737",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #738",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #739",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #740",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #741",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #742",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #743",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #744",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #745",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #746",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #747",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #748",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #749",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #750",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #751",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #752",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #753",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #754",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #755",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #756",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #757",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #758",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #759",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #760",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #761",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #762",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #763",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #764",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #765",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #766",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #767",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #768",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #769",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #770",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #771",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #772",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #773",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #774",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #775",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #776",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #777",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #778",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #779",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #780",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #781",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #782",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #783",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #784",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #785",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #786",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #787",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #788",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #789",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #790",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #791",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #792",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #793",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #794",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #795",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #796",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #797",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #798",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #799",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #800",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #801",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #802",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #803",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #804",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #805",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #806",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #807",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #808",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #809",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #810",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #811",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #812",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #813",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #814",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #815",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #816",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #817",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #818",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #819",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #820",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #821",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #822",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #823",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #824",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #825",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #826",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #827",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #828",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #829",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #830",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #831",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #832",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #833",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #834",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #835",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #836",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #837",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #838",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #839",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #840",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #841",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #842",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #843",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #844",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #845",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #846",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #847",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #848",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #849",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #850",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #851",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #852",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #853",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #854",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #855",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #856",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #857",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #858",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #859",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #860",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #861",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #862",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #863",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #864",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #865",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #866",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #867",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #868",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #869",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #870",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #871",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #872",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #873",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #874",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #875",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #876",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #877",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #878",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #879",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #880",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #881",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #882",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #883",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #884",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #885",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #886",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #887",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #888",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #889",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #890",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #891",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #892",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #893",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #894",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #895",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #896",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #897",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #898",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #899",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #900",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #901",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #902",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #903",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #904",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #905",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #906",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #907",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #908",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #909",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #910",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #911",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #912",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #913",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #914",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #915",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #916",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #917",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #918",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #919",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #920",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #921",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #922",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #923",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #924",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #925",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #926",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #927",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #928",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #929",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #930",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #931",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #932",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #933",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #934",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #935",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #936",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #937",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #938",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #939",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #940",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #941",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #942",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #943",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #944",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #945",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #946",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #947",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #948",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #949",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #950",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #951",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #952",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #953",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #954",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #955",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #956",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #957",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #958",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #959",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #960",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #961",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #962",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #963",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #964",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #965",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #966",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #967",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #968",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #969",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #970",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #971",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #972",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #973",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #974",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #975",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #976",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #977",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #978",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #979",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #980",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #981",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #982",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #983",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #984",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #985",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #986",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #987",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #988",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #989",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #990",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #991",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #992",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #993",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #994",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #995",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #996",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #997",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #998",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #999",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1000",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1001",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1002",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1003",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1004",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1005",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1006",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1007",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1008",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1009",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1010",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1011",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1012",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1013",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1014",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1015",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1016",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1017",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1018",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1019",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1020",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1021",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1022",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1023",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1024",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1025",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1026",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1027",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1028",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1029",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1030",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1031",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1032",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1033",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1034",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1035",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1036",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1037",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1038",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1039",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1040",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1041",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1042",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1043",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1044",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1045",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1046",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1047",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1048",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1049",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1050",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1051",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1052",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1053",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1054",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1055",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1056",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1057",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1058",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1059",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1060",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1061",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1062",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1063",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1064",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1065",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1066",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1067",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1068",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1069",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1070",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1071",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1072",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1073",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1074",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1075",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1076",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1077",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1078",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1079",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1080",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1081",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1082",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1083",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1084",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1085",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1086",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1087",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1088",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1089",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1090",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  },
+  {
+    "term": "Diabetes #1091",
+    "description": "A chronic condition where the body cannot properly regulate blood sugar levels."
+  },
+  {
+    "term": "Hypertension #1092",
+    "description": "A condition where blood pressure is consistently higher than normal."
+  },
+  {
+    "term": "Asthma #1093",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation and narrowing."
+  },
+  {
+    "term": "Stroke #1094",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "term": "Arthritis #1095",
+    "description": "A disorder causing inflammation and stiffness in the joints."
+  },
+  {
+    "term": "Tuberculosis #1096",
+    "description": "An infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis."
+  },
+  {
+    "term": "Anemia #1097",
+    "description": "A condition where the body has a lower than normal number of red blood cells or hemoglobin."
+  },
+  {
+    "term": "Migraine #1098",
+    "description": "A type of headache characterized by severe throbbing pain, often accompanied by nausea and sensitivity to light."
+  },
+  {
+    "term": "Pneumonia #1099",
+    "description": "An infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "term": "Cancer #1100",
+    "description": "A disease in which abnormal cells grow uncontrollably and may spread to other parts of the body."
+  }
+]
